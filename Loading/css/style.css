@@ -1,0 +1,42 @@
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(237, 242, 186);
+    background: radial-gradient(circle, rgba(237, 242, 186, 1) 0%, rgba(238, 209, 217, 1) 62%, rgba(215, 219, 247, 1) 100%);
+}
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    text-transform: uppercase;
+    font-size: 1.2em;
+}
+.text{   
+    margin: 130px;
+    font-size: 2.5em;
+}
+.ring{
+    position: absolute;
+    animation-name: animation;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    box-shadow: 0 7px grey;
+    animation-duration: 0.3s;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+}
+@keyframes animation{
+    0% {
+        transform: rotate(0deg);
+        
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
