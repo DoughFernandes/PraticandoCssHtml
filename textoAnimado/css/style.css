@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background: rgb(214, 27, 27);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+.caixa{
+    width: 50%;
+    height: 100%;
+    color: rgb(243, 155, 155);
+    overflow: hidden;
+    border-right: 2px solid red;
+    background: rgb(222, 240, 61);
+    position: absolute;
+    display: flex;
+    align-items: center;
+
+}
+.text{
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: arial black;
+    font-size: 16em;
+    position: absolute;
+    animation-name: animate;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 5s;
+}
+
+@keyframes animate {
+    0%{transform: translate(-50%);}
+    100%{transform: translate(0);}
+}
