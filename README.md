@@ -4,7 +4,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-![icons](/imagens/icons.gif )
+> [Repositorie: Icons](/Logos/CSS/Style.css)
+![icons](/imagens/icons.gif)
+
+> [Repositorie: Loading](/Loading/css/style.css)
 ![Loading](/imagens/loading.gif)
-![TextoAnimado](/imagens/Texto%20animado.gif)
+
+> [Repositorie: Texto Animado](/textoAnimado/css/style.css)
+![TextoAnimado](/imagens/TextoAnimado.gif)
+
+> [Repositorie: Efeito Pulse](/EfeitoPulse/css/style.css)
 ![EfeitoPulse](/imagens/efeito-pulse.gif)
