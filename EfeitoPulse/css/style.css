@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: rgb(107, 142, 165);
+}
+.caixa{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+span{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 900;
+    color: #f7c2c2;
+}
+.pulse{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: rgb(252, 113, 113);
+    box-shadow: 0px 0px 10px 0 #f16d6d; 
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: linear;
+}
+
+@keyframes pulse{
+    0% {box-shadow:0 0 0 0px rgb(252, 113, 113, 1);}
+    40% {box-shadow:0 0 0  50px rgb(252, 113, 113, 0.8);} 
+    80% {box-shadow:0 0 0 80px rgb(252, 113, 113, 0.6);}
+    100% {box-shadow:0 0 0px  100px rgb(252, 113, 113, 0.1);}
+}
