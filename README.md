@@ -14,4 +14,4 @@
 ![TextoAnimado](/imagens/TextoAnimado.gif)
 
 > [Repositorie: Efeito Pulse](/EfeitoPulse/css/style.css)
-![EfeitoPulse](/imagens/efeito-pulse.gif)
+![EfeitoPulse](/imagens/Efeito-pulse.gif)
