@@ -15,3 +15,6 @@
 
 > [Repositorie: Efeito Pulse](/EfeitoPulse/css/style.css)
 ![EfeitoPulse](/imagens/EfeitoPulse.gif)
+
+> [Repositorie: Efeito Texto](/EfeitoTexto/css/style.css)
+![EfeitoPulse](/imagens/TextoIluminado.gif)
