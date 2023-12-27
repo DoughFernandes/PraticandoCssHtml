@@ -4,17 +4,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-> [Repositorie: Icons](/Logos/CSS/Style.css)
+> [Repositorie: Icons com deslocamento vertical com sombras](/Logos/CSS/Style.css)
 ![icons](/imagens/icons.gif)
 
-> [Repositorie: Loading](/Loading/css/style.css)
+> [Repositorie: Efeito de Loading](/Loading/css/style.css)
 ![Loading](/imagens/loading.gif)
 
-> [Repositorie: Texto Animado](/textoAnimado/css/style.css)
+> [Repositorie: Texto animado com mudança de cor](/textoAnimado/css/style.css)
 ![TextoAnimado](/imagens/TextoAnimado.gif)
 
-> [Repositorie: Efeito Pulse](/EfeitoPulse/css/style.css)
+> [Repositorie: Efeito de circulo Pulsante](/EfeitoPulse/css/style.css)
 ![EfeitoPulse](/imagens/EfeitoPulse.gif)
 
-> [Repositorie: Efeito Texto](/EfeitoTexto/css/style.css)
+> [Repositorie: Efeito texto luminoso](/EfeitoTexto/css/style.css)
 ![EfeitoPulse](/imagens/TextoIluminado.gif)
+
+> [Repositorie: Efeito de caixa em movimento](/QuadradoMovimento/css/style.css)
+![EfeitoPulse](/imagens/QuadradoMoviment.gif)

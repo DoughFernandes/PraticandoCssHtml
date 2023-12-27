@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(118, 118, 246);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.quadrado{
+    border-right: 5px solid rgb(162, 157, 157); 
+    border-bottom: 5px solid rgb(162, 157, 157);
+    box-shadow: 10px 10px 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    background: white;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    position: relative;
+}
+.movimento1 {
+    position: absolute;
+    animation-delay: 0s;
+    animation-name: animation;
+}
+.movimento2 {
+    position: absolute;
+    animation-delay: 1.1s;
+    animation-name: animation;
+}
+.movimento3 {
+    position: absolute;
+    animation-delay: 2.1s;
+    animation-name: animation;
+}
+@keyframes animation {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+
+    25% {
+        left: 70px;
+        top: 0px;
+    }
+
+    50% {
+        left: 70px;
+        top: 70px;
+    }
+
+    75% {
+        left: 0px;
+        top: 70px;
+    }
+
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}
