@@ -1,0 +1,66 @@
+body{
+    height: 100vh;
+    background: rgb(60, 60, 60);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coracao{
+    position: absolute;
+    font-size: 12em;
+    text-shadow: 12px 10px 0px rgb(72, 66, 66);
+    /* animation-name: pulsando;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-fill-mode: none; */
+    /* RESUMO DAS ANIMAÇÃES ******************************************************************/
+    animation: pulsando 2s linear 0s infinite alternate none;
+    ;
+}
+@keyframes pulsando{
+    0%{
+        font-size: 17em;
+    }
+    25%{
+        font-size: 15em;
+    }
+    50%{
+        font-size: 17em;
+    }
+    75%{
+        font-size: 15em;
+    }
+    100%{
+        font-size: 20em;
+    }
+}
+
+
+
+/* @keyframes pulsando{
+    0% {
+        text-shadow: 0 0 20px rgb(252, 113, 113, 0.1), 0 0 0 10px rgb(252, 113, 113, 0.1);
+    }
+
+    40% {
+    text-shadow: 0 0 0 px rgb(252, 113, 113, 0.2), 0 0 0 0px rgb(252, 113, 113, 0.2);
+    }
+
+    80% {
+        text-shadow: 0 0 0 px rgb(252, 113, 113, 0.1), 0 0 0 0px rgb(252, 113, 113, 0.1);
+    }
+
+    100% {
+        text-shadow: 0 0 0 px rgb(252, 113, 113, 0.1), 0 0 0 0px rgb(252, 113, 113, 0.1);
+    }
+} */
