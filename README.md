@@ -24,3 +24,6 @@
 
 > [Repositorie: Coração Pulsando](/Coração/css/style.css)
 ![EfeitoPulse](/imagens/Coração.gif)
+
+> [Repositorie: Pêndulo de Newton](/PenduloDeNewton/css/style.css)
+![EfeitoPulse](/imagens/PenduloDeNewton.gif)
