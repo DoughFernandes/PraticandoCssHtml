@@ -27,3 +27,7 @@
 
 > [Repositorie: Pêndulo de Newton](/PenduloDeNewton/css/style.css)
 ![EfeitoPulse](/imagens/PenduloDeNewton.gif)
+
+> [Repositorie: Loves](/Loves/css/style.css)
+![Loves](/imagens/hooby.gif)
+

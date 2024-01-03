@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(132, 220, 226);
+}
+h1{
+    font-size: 5em;
+    font-family: 'Press Start 2P', cursive;
+}
+span::before{
+    font-size: 1.3em;
+    content: '';
+    animation-name: animation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes animation{
+    0%{content: '🎵'}
+
+    25%{content: '⚽';}
+
+    50%{content: '🍕';}
+
+    75%{content: '🐕';}
+
+    100%{content: '🎮';}
+}
