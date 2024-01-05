@@ -44,23 +44,3 @@ body{
         font-size: 20em;
     }
 }
-
-
-
-/* @keyframes pulsando{
-    0% {
-        text-shadow: 0 0 20px rgb(252, 113, 113, 0.1), 0 0 0 10px rgb(252, 113, 113, 0.1);
-    }
-
-    40% {
-    text-shadow: 0 0 0 px rgb(252, 113, 113, 0.2), 0 0 0 0px rgb(252, 113, 113, 0.2);
-    }
-
-    80% {
-        text-shadow: 0 0 0 px rgb(252, 113, 113, 0.1), 0 0 0 0px rgb(252, 113, 113, 0.1);
-    }
-
-    100% {
-        text-shadow: 0 0 0 px rgb(252, 113, 113, 0.1), 0 0 0 0px rgb(252, 113, 113, 0.1);
-    }
-} */
