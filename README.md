@@ -35,3 +35,6 @@
 
 > [Repositorie: Hover](/Hover/css/estilo.css)
 ![Hover](/imagens/hover.gif)
+
+> [Repositorie: Ideia](/TextoAnimadoHover/textoAnimadoHover.html)
+![Ideia](/imagens/efeitoTextoIdeia.gif)
