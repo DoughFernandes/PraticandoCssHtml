@@ -17,13 +17,6 @@ body{
     position: absolute;
     font-size: 12em;
     text-shadow: 12px 10px 0px rgb(72, 66, 66);
-    /* animation-name: pulsando;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    animation-direction: alternate;
-    animation-fill-mode: none; */
-    /* RESUMO DAS ANIMAÇÃES ******************************************************************/
     animation: pulsando 2s linear 0s infinite alternate none;
     ;
 }

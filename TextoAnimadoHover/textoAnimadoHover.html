@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    
+    body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    span#lampada{
+        visibility: hidden;
+    }
+    .text{  
+        color: rgb(255, 128, 54);
+        text-shadow: 0 0 2px black;
+        margin: 0;
+        padding: 0;
+        font-weight: 900;
+        font-size: 3em;
+        font-family: Verdana;
+        position: relative;
+        overflow: hidden;
+    }
+    .text::before{
+        content: 'HelloWorld 💡';
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 0%;
+        color: yellow;
+        overflow: hidden;
+        position: absolute;
+        transition: all 0.4s;
+    }
+    .text:hover::before{
+        width: 100%;
+    }
+
+
+    </style>
+</head>
+<body>
+    <span class="text">HelloWorld <span id="lampada">💡</span></span>
+</body>
+</html>
