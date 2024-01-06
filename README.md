@@ -31,7 +31,7 @@
 ![EfeitoPulse](/imagens/PenduloDeNewton.gif)
 
 > [Repositorie: Loves](/Loves/css/style.css)
-![Loves](/imagens/hooby.gif)
+![Loves](/imagens/love.gif)
 
 > [Repositorie: Hover](/Hover/css/estilo.css)
 ![Hover](/imagens/hover.gif)
