@@ -1,40 +1,48 @@
-## TESTE DE CONHECIMENTO 🌍🧠
+# Meus Conhecimentos
+
+Olá! 👋 Este é um breve resumo dos meus conhecimentos e habilidades.
+
+## Habilidades Técnicas
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-## Ilustracões
 
-> [Repositorie: Icons com deslocamento vertical com sombras](/Logos/CSS/Style.css)
-![icons](/imagens/icons.gif)
+## Projetos
 
-> [Repositorie: Efeito de Loading](/Loading/css/style.css)
-![Loading](/imagens/loading.gif)
+| [ICONS](/Logos/Index.html) | [LOADING](/Loading/Index.html) | [TEXTO ANIMADO](//textoAnimado/textoAnimado.html)|
+| --- | --- | ---|
+|![icons](/imagens/icons.gif)| ![Loading](/imagens/loading.gif) | ![TextoAnimado](/imagens/TextoAnimado.gif)|
 
-> [Repositorie: Texto animado com mudança de cor](/textoAnimado/css/style.css)
-![TextoAnimado](/imagens/TextoAnimado.gif)
+>
 
-> [Repositorie: Efeito de circulo Pulsante](/EfeitoPulse/css/style.css)
-![EfeitoPulse](/imagens/EfeitoPulse.gif)
+| [PODER](/AnimaçãoMola/AnimacaoMola.html) | [EFEITO PULSE](/EfeitoPulse/EfeitoPulse.html) | [TEXTO ILUMINADO](/EfeitoTexto/index.html)|
+| --- | --- | --- |
+| ![Mola](/imagens/Mola.gif)  | ![EfeitoPulse](/imagens/EfeitoPulse.gif) | ![TextoIluminado](/imagens/TextoIluminado.gif) |
 
-> [Repositorie: Efeito texto luminoso](/EfeitoTexto/css/style.css)
-![EfeitoPulse](/imagens/TextoIluminado.gif)
+>
 
-> [Repositorie: Efeito de caixa em movimento](/QuadradoMovimento/css/style.css)
-![EfeitoPulse](/imagens/QuadradoMoviment.gif)
+| [MOVIMENTO](/QuadradoMovimento/QuadradoMovimento.html)| [CORAÇÃO](/Coração/Coracao.html) | [PENDULO](/PenduloDeNewton/Index.html) |
+| --- | --- | --- |
+| ![EfeitoPulse](/imagens/QuadradoMoviment.gif) | ![EfeitoPulse](/imagens/Coração.gif) | ![EfeitoPulse](/imagens/PenduloDeNewton.gif) |
 
-> [Repositorie: Coração Pulsando](/Coração/css/style.css)
-![EfeitoPulse](/imagens/Coração.gif)
+>
 
-> [Repositorie: Pêndulo de Newton](/PenduloDeNewton/css/style.css)
-![EfeitoPulse](/imagens/PenduloDeNewton.gif)
+| [LOVES](/Loves/Loves.html) | [HOVER](/Hover/hover.html) | [EFEITO TEXTO](/EfeitoTexto/index.html) |
+| --- | --- | --- |
+| ![Loves](/imagens/love.gif) | ![Hover](/imagens/hover.gif) | ![Ideia](/imagens/efeitoTextoIdeia.gif) |
 
-> [Repositorie: Loves](/Loves/css/style.css)
-![Loves](/imagens/love.gif)
+>
 
-> [Repositorie: Hover](/Hover/css/estilo.css)
-![Hover](/imagens/hover.gif)
+## Educação
 
-> [Repositorie: Ideia](/TextoAnimadoHover/textoAnimadoHover.html)
-![Ideia](/imagens/efeitoTextoIdeia.gif)
+- **Cursos**,  DIO.me | Udemy.com
+
+## Contato
+
+- **Email**: dfdsf1996@gmail.com
+- **LinkedIn**: [Douglas Fernandes](https://www.linkedin.com/in/douglas-fernandes-616068287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+Obrigado por visitar meu perfil!
+
