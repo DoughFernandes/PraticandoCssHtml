@@ -35,6 +35,12 @@ Olá! 👋 Este é um breve resumo dos meus conhecimentos e habilidades.
 
 >
 
+| [TEXTO ROTAÇÃO](/TextoOnda/TextoOnda.html) |
+| --- |
+|![LOVES](/imagens/TextoRotate.gif)|
+
+>
+
 ## Educação
 
 - **Cursos**,  DIO.me | Udemy.com
@@ -45,4 +51,3 @@ Olá! 👋 Este é um breve resumo dos meus conhecimentos e habilidades.
 - **LinkedIn**: [Douglas Fernandes](https://www.linkedin.com/in/douglas-fernandes-616068287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 Obrigado por visitar meu perfil!
-
