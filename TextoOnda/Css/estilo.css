@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    font-size: 5em;
+    font-family: arial black;
+    color: white;
+    animation: text-background 2s alternate-reverse infinite;
+    text-shadow: 10px 0 10px black;
+}
+@keyframes text-background{
+    0%{
+        color: red;
+        transform: rotate(20deg);
+        font-size: 6em;
+    }
+    50%{
+        color: yellow;
+        transform: rotate(-20deg);
+        font-size: 5em;
+    }
+
+    90%{
+        color: blue;
+        font-size: 6em;
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+}
