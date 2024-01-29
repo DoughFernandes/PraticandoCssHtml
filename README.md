@@ -35,9 +35,9 @@ Olá! 👋 Este é um breve resumo dos meus conhecimentos e habilidades.
 
 >
 
-| [TEXTO ROTAÇÃO](/TextoOnda/TextoOnda.html) |[TEXT VERIFICADO](/textConfirmado/textConfirmado.html)
-| --- | --- |
-|![LOVES](/imagens/TextoRotate.gif)|![TEXT VERIFICADO](/imagens/textConfirmado.gif) |
+| [TEXTO ROTAÇÃO](/TextoOnda/TextoOnda.html) | [TEXT VERIFICADO](/textConfirmado/textConfirmado.html) | [ROTAÇÃO](/Rotação/rotacao.html) |
+| --- | --- | -- |
+|![LOVES](/imagens/TextoRotate.gif)|![TEXT VERIFICADO](/imagens/textConfirmado.gif) | ![TEXT VERIFICADO](/imagens/rotate.gif) |
 
 >
 
