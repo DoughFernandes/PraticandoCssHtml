@@ -41,6 +41,10 @@ Olá! 👋 Este é um breve resumo dos meus conhecimentos e habilidades.
 
 >
 
+|[TEXTO SUMIR](/sumirtexto/sumirText.html) |
+| --- |
+| ![Texto sumir](/imagens/TextoSumir.gif) |
+
 ## Educação
 
 - **Cursos**,  DIO.me | Udemy.com
